@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi web3 world 👋
+
+🔭 I have been studying, sharing my experiences, and creating new content for the web3 community for over 7 years
+
+😄 You can follow me on [Telegram](https://t.me/+gUf4WNcC0rk0NDk6) and [YouTube](https://www.youtube.com/@web3easy)
+
+🌱 Our community, web3easy, receives over 300k views every month
 
 <!--
 **web3easy/web3easy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
