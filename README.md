@@ -6,6 +6,8 @@
 
 🌱 Our community, web3easy, receives over 300k views every month
 
+📫 To contact me, write to [Telegram](http://t.me/web3peasy)
+
 <!--
 **web3easy/web3easy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
