@@ -2,7 +2,7 @@
 
 🔭 I have been studying, sharing my experiences, and creating new content for the web3 community for over 7 years
 
-😄 You can follow me on [Telegram](https://t.me/+gUf4WNcC0rk0NDk6) and [YouTube](https://www.youtube.com/@web3easy)
+😄 You can follow me on [Telegram](https://t.me/+gUf4WNcC0rk0NDk6), [YouTube](https://www.youtube.com/@web3easy) and [DeBank](https://debank.com/profile/0x03215a66e3655ead2657482da1ba470e85c56547)
 
 🌱 Our community, web3easy, receives over 300k views every month
 
