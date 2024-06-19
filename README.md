@@ -1,4 +1,4 @@
-## Hi web3 world 👋
+## Hello web3 world 👋
 
 🔭 I have been studying, sharing my experiences, and creating new content for the web3 community for over 7 years
 
